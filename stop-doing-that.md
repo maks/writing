@@ -101,7 +101,6 @@ characters instead of a few dozen?
 
 So what would it then look like? Well stay tuned for part 2...
 
-
-Maksim Lin
-----------
-2012-11-29
+----
+**Maksim Lin**,
+_2012-11-29_
