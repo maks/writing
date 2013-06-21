@@ -58,8 +58,8 @@ and this is what many people use to write in these languages:
 There are even some who take **pride** in making their modern, superfast GPU driven machines look like
 glass-terminals from the 1970s - WTF?!?!
 
-Brett Victor has some great (http://worrydream.com/#!/LadderOfAbstraction) 
-ideas (http://worrydream.com/#!/LearnableProgramming) and demonstrates (http://vimeo.com/36579366)
+Brett Victor has some [great](http://worrydream.com/#!/LadderOfAbstraction) 
+[ideas](http://worrydream.com/#!/LearnableProgramming) and [demonstrates](http://vimeo.com/36579366)
 really well. I suggest you read and watch all of those.
 
 But as exciting as those are and there as some such as the iOS Codea app that have started incorporating
