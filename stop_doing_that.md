@@ -1,14 +1,5 @@
----
-layout: article
-title: Stop Doing that!
-date: 2012-11-29
-author: 
-- Maksim Lin
-tags:
-- programming
-- languages
-- ui
----
+Stop Doing that!
+================
 
 So what do these languages have in common:
 C:
@@ -111,3 +102,7 @@ characters instead of a few dozen?
 So what would it then look like? Well stay tuned for part 2...
 
 
+Maksim Lin
+----------
+2012-11-29
+----------
